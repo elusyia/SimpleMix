@@ -47,5 +47,5 @@ Desktop.ini
 .upm-cache/
 upm-ci~/
 
-# Keep Unity metadata tracked
-!*.meta
+# Unity metadata
+*.meta
